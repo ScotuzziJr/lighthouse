@@ -1,2 +1,2 @@
-# lighthouse
+# Lighthouse
 An experimental Linux Distro
